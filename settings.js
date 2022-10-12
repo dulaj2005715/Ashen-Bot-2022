@@ -37,10 +37,10 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94768534884'] //ur owner number
-global.ownername = "ᴋɪɴɢ ASHEN BOT 2022" //ur owner name
+global.ownername = "🌀𝙰𝚂𝙷𝙴𝙽 𝙱𝙾𝚃😈" //ur owner name
 global.ytname = "YT: Zone Music Studio" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.socialm = "Whats App: https://wa.me/+94768534884" //ur github or insta name
+global.location = "Sri Lanka, Nittambuwa, Thihariya" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94768534884']
