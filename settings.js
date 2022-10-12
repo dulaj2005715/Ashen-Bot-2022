@@ -46,16 +46,16 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['94768534884']
 global.ownertag = '94768534884' //ur tag number
 global.botnumber = '94768534884' //Add your Bot Number For Log
-global.botname = 'Ashen Bot 2022' //ur bot name
+global.botname = '😈𝔸𝕊ℍ𝔼ℕ 𝔹𝕆𝕋🚀' //ur bot name
 global.ig = "https://www.youtube.com/channel/UCOOLLgQZnr1FheTVL32hd5A" //your theme url which will be displayed on whatsapp
 global.myweb = "https://www.youtube.com/channel/UCOOLLgQZnr1FheTVL32hd5A" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://www.youtube.com/channel/UCOOLLgQZnr1FheTVL32hd5A'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Ashen Bot 2022" //ur sticker watermark packname
-global.author = "ASHEN BOT 2022" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "🌀𝙰𝚂𝙷𝙴𝙽 𝙱𝙾𝚃😈" //ur sticker watermark packname
+global.author = "💥𝔸𝕊ℍ𝔼ℕ 𝔹𝕆𝕋🚀" //ur sticker watermark author
+global.footer = "®😈𝙰𝚂𝙷𝙴𝙽 𝙱𝙾𝚃 🚀"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94768534884'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
